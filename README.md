@@ -2,7 +2,7 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Deepak+Singh!;AI+%7C+ML+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Aanchal+Routela!;AI+%7C+ML+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 ---
