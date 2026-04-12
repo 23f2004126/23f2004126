@@ -1,14 +1,16 @@
 
 <!-- Profile README -->
+<!-- 🌸 Aesthetic Banner -->
+
+
+<!-- 💖 Typing Effect -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Aanchal+Routela!;AI+%7C+ML+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F8BBD0&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aanchal+Routela!;AI+%7C+ML+%7C+GenAI;Building+Cool+Things+%F0%9F%92%96" />
 </h1>
 
----
-
 ### 🌌 About Me  
-- 🎓 B.S (3rd Year) | Data Science & AI Enthusiast  
+- 🎓 B.S.| IITM | Data Science & Programming
 - 🤖 Interested in **AI, Machine Learning, and Agentic AI**  
 - 💡 Always exploring **projects in ML & Data Science**  
 - 🔭 Currently working on: `Household Services App`, `Data Analyst Agent`  
