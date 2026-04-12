@@ -15,15 +15,23 @@
 
 ---
 
-### ⚡ Tech Stack  
+### ⚡ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-FFFACD?style=for-the-badge&logo=scikitlearn&logoColor=purple" />
-  <img src="https://img.shields.io/badge/CNN-FFFACD?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-FFFACD?style=for-the-badge&logo=sqlite&logoColor=blue" />
-  <img src="https://img.shields.io/badge/VueJS-FFFACD?style=for-the-badge&logo=vue.js&logoColor=41B883" />
-  <img src="https://img.shields.io/badge/TensorFlow-FFFACD?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Python-FFDEE9?style=for-the-badge&logo=python&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Pandas-FFDEE9?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-FFDEE9?style=for-the-badge&logo=numpy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/scikit--learn-FFDEE9?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFDEE9?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFDEE9?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-FFDEE9?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/LangChain-FFDEE9?style=for-the-badge&logo=chainlink&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/FAISS-FFDEE9?style=for-the-badge&logo=meta&logoColor=000000"/>
+</p>
+
 
 ---
 
@@ -36,18 +44,20 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aanchalroutela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FFDEE9?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:aanchalroutela01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Email-FFDEE9?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://github.com/23f2004126" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-FFDEE9?style=for-the-badge&logo=github&logoColor=000000"/>
   </a>
 </p>
+
 
 ---
 
