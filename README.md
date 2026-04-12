@@ -17,12 +17,12 @@
 
 ### ⚡ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=blue" />
-  <img src="https://img.shields.io/badge/VueJS-000000?style=for-the-badge&logo=vue.js&logoColor=41B883" />
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-FFFACD?style=for-the-badge&logo=scikitlearn&logoColor=purple" />
+  <img src="https://img.shields.io/badge/CNN-FFFACD?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-FFFACD?style=for-the-badge&logo=sqlite&logoColor=blue" />
+  <img src="https://img.shields.io/badge/VueJS-FFFACD?style=for-the-badge&logo=vue.js&logoColor=41B883" />
+  <img src="https://img.shields.io/badge/TensorFlow-FFFACD?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
 ---
