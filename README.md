@@ -13,7 +13,7 @@
 - 🎓 B.S.| IITM | Data Science & Programming
 - 🤖 Interested in **AI, Machine Learning, and Agentic AI**  
 - 💡 Always exploring **projects in ML & Data Science**  
-- 🔭 Currently working on: `Multilingual Chatbot`  
+- 🔭 Currently working on: `LinguaVault: Multilingual Chatbot`  
 
 ---
 
