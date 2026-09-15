@@ -100,7 +100,44 @@ A business/data analysis project focused on understanding customer and business 
 
 ---
 
-### 🛠️ Tech Stack
+### 🧩 Skills
+
+**Product**
+- Product Discovery
+- User Research
+- Problem Definition
+- User Stories & Acceptance Criteria
+- Product Requirements & PRDs
+- Feature Prioritisation
+- Product Documentation
+- Product Roadmapping
+- Agile / Scrum
+- Cross-Functional Collaboration
+
+**AI Product**
+- AI Product Thinking
+- Generative AI
+- LLM Applications
+- Prompt Engineering
+- RAG
+- AI Agents
+- AI Evaluation
+- Data-Driven Product Analysis
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-FFDEE9?style=for-the-badge&logo=jira&logoColor=0052CC"/>
+  <img src="https://img.shields.io/badge/Power%20BI-FFDEE9?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Excel-FFDEE9?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/GitHub-FFDEE9?style=for-the-badge&logo=github&logoColor=000000"/>
+</p>
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFDEE9?style=for-the-badge&logo=python&logoColor=000000"/>
