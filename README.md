@@ -88,7 +88,7 @@ A business/data analysis project focused on understanding customer and business 
 
 🔗 [View Project](https://github.com/23f2004126/BDM_Proj/tree/main/BDM_project)
 
-
+---
 
 ### Other AI / ML Projects
 
