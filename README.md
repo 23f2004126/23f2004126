@@ -1,4 +1,3 @@
-
 <!-- Profile README -->
 
 <h1 align="center">
@@ -14,17 +13,17 @@
 ### 🌌 About Me
 
 - 🎓 B.S. in Data Science & Applications : IIT Madras
-- 📌 **Minors:** 
-  - 🤖 Generative AI
-  - ☁️ Cloud Computing for AI
-- 🤖 Exploring **AI, Machine Learning, Generative AI & Agentic AI**
-- 🧩 Interested in the intersection of **AI, product thinking, and user problems**
-- 🛠️ Building projects that combine **product decisions with technical implementation**
-- 📚 Currently learning **AI Product Management, LLM applications, RAG, and AI evaluation**
+-  **Minors:** 
+  - Generative AI
+  - Cloud Computing for AI
+- Exploring **AI, Machine Learning, Generative AI & Agentic AI**
+- Interested in the intersection of **AI, product thinking, and user problems**
+- Building projects that combine **product decisions with technical implementation**
+- Currently learning **AI Product Management, LLM applications, RAG, and AI evaluation**
 
 ---
 
-### 🧠 What I'm Learning
+### What I'm Learning
 
 **Product**
 - Product Discovery
@@ -54,9 +53,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🛒 SONIK: Smart Retail Management System
+#### SONIK: Smart Retail Management System
 
 A full-stack retail management platform designed to digitise inventory, billing, customer credit, financial tracking, analytics, and business operations.
 
@@ -76,7 +75,7 @@ Natural-language business queries are converted into SQL queries and executed ag
 
 ---
 
-#### 🛍️ Grocery Gateway: Business & Product Analytics
+#### Grocery Gateway: Business & Product Analytics
 
 A business/data analysis project focused on understanding customer and business behaviour and translating data into actionable product recommendations.
 
@@ -91,16 +90,16 @@ A business/data analysis project focused on understanding customer and business 
 
 
 
-### 🔬 Other AI / ML Projects
+### Other AI / ML Projects
 
-- 🌿 **Potato Disease Classification** : CNN + TensorFlow + FastAPI 🔗 [View Project](https://github.com/23f2004126/Potato-Disease-Classification)
-- 🏠 **Real Estate Price Prediction** : Regression + scikit-learn + Flask 🔗 [View Project](https://github.com/23f2004126/Real-Estate-Price-Prediction-System)
-- 🏅 **Sports Celebrity Image Classification** : Computer Vision + ML 🔗 [View Project](https://github.com/23f2004126/Sports-Celebrity-Image-Classification)
-- 📊 **ML Experiments** : Feature Engineering + Model Evaluation + XGBoost
+- **Potato Disease Classification** : CNN + TensorFlow + FastAPI 🔗 [View Project](https://github.com/23f2004126/Potato-Disease-Classification)
+- **Real Estate Price Prediction** : Regression + scikit-learn + Flask 🔗 [View Project](https://github.com/23f2004126/Real-Estate-Price-Prediction-System)
+- **Sports Celebrity Image Classification** : Computer Vision + ML 🔗 [View Project](https://github.com/23f2004126/Sports-Celebrity-Image-Classification)
+- **ML Experiments** : Feature Engineering + Model Evaluation + XGBoost
 
 ---
 
-### 🧩 Skills
+### Skills
 
 **Product**
 - Product Discovery
@@ -126,7 +125,7 @@ A business/data analysis project focused on understanding customer and business 
 
 ---
 
-### 🛠️ Tools
+### Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-FFDEE9?style=for-the-badge&logo=jira&logoColor=0052CC"/>
@@ -137,7 +136,7 @@ A business/data analysis project focused on understanding customer and business 
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFDEE9?style=for-the-badge&logo=python&logoColor=000000"/>
@@ -159,7 +158,7 @@ A business/data analysis project focused on understanding customer and business 
 ---
 
 
-### 📌 Current Focus
+### Current Focus
 
 <p align="center">
   <b>AI Fundamentals</b>
