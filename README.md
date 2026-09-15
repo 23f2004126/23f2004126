@@ -12,7 +12,7 @@
 
 ### 🌌 About Me
 
-- 🎓 B.S. in Data Science & Applications : IIT Madras
+- B.S. in Data Science & Applications : IIT Madras
 -  **Minors:** 
   - Generative AI
   - Cloud Computing for AI
