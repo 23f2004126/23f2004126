@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Data Science Student @ IIT Madras | Aspiring AI Product Manager</b>
+  <b>AI Product Management | Data Science @ IIT Madras | GenAI, ML & Full-Stack AI Products</b>
 </p>
 
 ---
