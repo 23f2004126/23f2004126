@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>AI Product Management | Data Science @ IIT Madras | GenAI, ML & Full-Stack AI Products</b>
+  <b>AI Product Management @ Explified | Data Science @ IIT Madras | GenAI, ML & Full-Stack AI Products</b>
 </p>
 
 ---
