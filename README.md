@@ -20,7 +20,7 @@
 - Interested in the intersection of **AI, product thinking, and user problems**
 - Building projects that combine **product decisions with technical implementation**
 - Currently learning **AI Product Management, LLM applications, RAG, and AI evaluation**
-- Intern at **Explified Labs** as an **AI PRODUCT MANAGER**
+- Intern at **Explified Labs** as an **AI PRODUCT MANAGEMENT INTERN**
 
 ---
 
