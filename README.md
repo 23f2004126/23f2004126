@@ -15,7 +15,6 @@
 - B.S. in Data Science & Applications : IIT Madras
 -  **Minors:** 
   - Generative AI
-  - Cloud Computing for AI
 - Exploring **AI, Machine Learning, Generative AI & Agentic AI**
 - Interested in the intersection of **AI, product thinking, and user problems**
 - Building projects that combine **product decisions with technical implementation**
