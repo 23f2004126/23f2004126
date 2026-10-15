@@ -13,6 +13,7 @@
 ### 🌌 About Me
 
 - B.S. in Data Science & Applications at IIT Madras
+- **Minor in Generative AI @ IIT Madras**
 - AI Product Management Intern at Explified
 - Interested in AI products, product strategy, data science and GenAI
 - Building user-focused products backed by research and technology
@@ -48,7 +49,7 @@
 - **Virtual Teaching Assistant** — RAG-based question-answering API  
   🔗 [Repository](https://github.com/23f2004126/virtualta-project)
 
-**Skills:** LLMs · RAG · Prompt Engineering · AI Applications · Embeddings · API Development
+**Skills:** LLMs · RAG · Prompt Engineering · AI Applications · API Development
 
 ---
 
@@ -66,16 +67,7 @@
 - **Sports Celebrity Classification** — Computer vision and ML  
   🔗 [Repository](https://github.com/23f2004126/Sports-Celebrity-Image-Classification)
 
-**Skills:** Python · SQL · Pandas · NumPy · scikit-learn · TensorFlow · Exploratory Data Analysis · Model Evaluation
-
----
-
-### 💻 Full-Stack Development
-
-- **Quiz Master V2** — Quiz platform with caching and background jobs  
-  🔗 [Repository](https://github.com/23f2004126/Quiz-Master-MAD-2)
-
-**Tech:** Python · Flask · FastAPI · Vue.js · SQLite · Redis · Celery · Git
+**Skills:** Python · SQL · Pandas · NumPy · scikit-learn · TensorFlow · OpenCV · Model Evaluation
 
 ---
 
@@ -83,8 +75,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-FFDEE9?style=for-the-badge&logo=jira&logoColor=0052CC"/>
+  <img src="https://img.shields.io/badge/Figma-FFDEE9?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/Power%20BI-FFDEE9?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
   <img src="https://img.shields.io/badge/Excel-FFDEE9?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/Webflow-FFDEE9?style=for-the-badge&logo=webflow&logoColor=146EF5"/>
   <img src="https://img.shields.io/badge/GitHub-FFDEE9?style=for-the-badge&logo=github&logoColor=000000"/>
 </p>
 
@@ -99,12 +93,15 @@
   <img src="https://img.shields.io/badge/NumPy-FFDEE9?style=for-the-badge&logo=numpy&logoColor=013243"/>
   <img src="https://img.shields.io/badge/scikit--learn-FFDEE9?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
   <img src="https://img.shields.io/badge/TensorFlow-FFDEE9?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFDEE9?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-FFDEE9?style=for-the-badge&logo=fastapi&logoColor=009688"/>
   <img src="https://img.shields.io/badge/Flask-FFDEE9?style=for-the-badge&logo=flask&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Vue.js-FFDEE9?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/SQLite-FFDEE9?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-FFDEE9?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
   <img src="https://img.shields.io/badge/Git-FFDEE9?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
