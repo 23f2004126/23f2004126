@@ -113,6 +113,12 @@
 
 ### 🌐 Connect With Me
 
+
+<p align="center">
+  <img src="./aanchal_chibi_mischievous_mix.gif" width="180">
+</p>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aanchalroutela/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFDEE9?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -128,10 +134,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="./aanchal_chibi_mischievous_mix.gif" width="180">
-</p>
 
 
 <h4 align="center">✨ "Turn Ideas Into Intelligent Products." ✨</h4>
