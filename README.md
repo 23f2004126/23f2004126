@@ -128,4 +128,10 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="./aanchal_chibi_mischievous_mix.gif" width="180">
+</p>
+
+
 <h4 align="center">✨ "Turn Ideas Into Intelligent Products." ✨</h4>
