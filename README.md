@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <img src="./aanchal_chibi_animated.gif" width="180">
+</p>
+
+<p align="center">
   <b>AI Product Management @ Explified | Data Science @ IIT Madras</b>
 </p>
 
